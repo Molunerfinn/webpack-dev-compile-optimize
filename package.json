@@ -1,0 +1,25 @@
+{
+  "name": "webpack-dev-compile-optimize",
+  "version": "0.0.1",
+  "description": "A plugin for optimizing webpack dev compile time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Molunerfinn/webpack-dev-compile-optimize.git"
+  },
+  "keywords": [
+    "webpack",
+    "optimize",
+    "dev",
+    "plugin"
+  ],
+  "author": "Molunerfinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Molunerfinn/webpack-dev-compile-optimize/issues"
+  },
+  "homepage": "https://github.com/Molunerfinn/webpack-dev-compile-optimize#readme"
+}
