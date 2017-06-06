@@ -15,7 +15,7 @@ npm install webpack-dev-compile-optimize --save
 
 In your dev webpack config:
 
-```
+```js
 const DevCompileOptimize = require('webpack-dev-compile-optimize')
 
 //...
