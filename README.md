@@ -2,6 +2,13 @@
 
 A plugin for optimizing webpack dev compile time.
 
+|Before|After|
+|------|-----|
+|32430ms|838ms|
+|92031ms|3221ms|
+
+Amazing!
+
 **Notice**: It's only used for dev mode & do not try it on your production mode~
 
 [![npm](https://img.shields.io/npm/dm/webpack-dev-compile-optimize.svg)]() [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
