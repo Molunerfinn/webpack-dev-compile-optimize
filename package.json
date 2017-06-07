@@ -1,6 +1,6 @@
 {
   "name": "webpack-dev-compile-optimize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A plugin for optimizing webpack dev compile time",
   "main": "index.js",
   "scripts": {
